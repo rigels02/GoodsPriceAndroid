@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.rb.goodsprice.MainActivity">
+    <item
+        android:title="@string/share_as_csv"
+        android:orderInCategory="100"
+        android:id="@+id/id_shareCSV"
+        android:visible="true"
+        android:enabled="true" />
+    <item
+        android:title="Tcp Client"
+        android:orderInCategory="101"
+        android:id="@+id/id_tcpClient"
+        android:visible="true"
+        android:enabled="true" />
+    <item
+            android:title="@string/show_report"
+            android:orderInCategory="101"
+            android:id="@+id/id_showreport"
+            android:visible="true"
+            android:enabled="true" />
+    <item
+            android:title="@string/remote_spring_boot_server"
+            android:orderInCategory="101"
+            android:id="@+id/id_restfulclient"
+            android:visible="true"
+            android:enabled="true" />
+
+
+</menu>

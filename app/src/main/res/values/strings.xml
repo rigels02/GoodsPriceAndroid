@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GoodsPrice</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_muse_fragment">MActivityUseFragment</string>
+    <string name="title_activity_report">Report</string>
+    <string name="title_activity_impo_shared_csv">ImportGoodsCSV</string>
+    <string name="title_activity_tcp__client">TCP Client</string>
+    <string name="title_activity_restful_client">Spring Boot Client</string>
+    <string name="remote_spring_boot_server">Remote Spring Boot Server</string>
+    <string name="show_report">Show Report</string>
+    <string name="share_as_csv">Share as CSV</string>
+    <string name="input_restful_url_example">Input RestFul URL below, for example: http://192.168.2.104:8080/goods:
+    </string>
+</resources>
